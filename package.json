@@ -1,7 +1,7 @@
 {
   "name": "polymer-ctrl-dependencies",
   "version": "1.0.0",
-  "description": "Creates dependencies tree (in JSON) for specific ctrl in the project. Can be used for ",
+  "description": "Creates dependencies tree (in JSON) for specific ctrl in the project. Can be used for tracking possible affected areas.",
   "author": {
     "name": "reximus",
     "url": "https://twitter.com/Reximusiy"
