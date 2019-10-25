@@ -5,6 +5,6 @@ Creates dependencies tree (in JSON) for specific ctrl in the project. Can be use
 
 - git clone
 - install packages 'npm i'
-- run command by template 'node deps <projectPath> <PathToRootPolymerElement> <PolymerElementId>'
+- run command by template 'node deps [projectPath] [PathToRootPolymerElement] [PolymerElementId]'
   Example: node deps c:\\my-project src\\app.html paper-button
 - Output result may be visualized in https://vanya.jp.net/vtree/ .
