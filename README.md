@@ -1,5 +1,5 @@
 # polymer-ctrl-dependencies
-Creates dependencies tree (in JSON) for specific ctrl in the project. Can be used for tracking possible affected areas.
+Creates dependencies tree (in JSON) for specific ctrl in Polymer2 project. Can be used for tracking possible affected areas.
 
 ## How to run
 
