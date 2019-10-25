@@ -1,0 +1,23 @@
+{
+  "name": "polymer-ctrl-dependencies",
+  "version": "1.0.0",
+  "description": "Creates dependencies tree (in JSON) for specific ctrl in the project. Can be used for ",
+  "author": {
+    "name": "reximus",
+    "url": "https://twitter.com/Reximusiy"
+  },
+  "main": "deps.js",
+  "scripts": {
+    "start": "set NODE_ENV=production && node deps.js",
+    "lint": "eslint . --ext js --ignore-path .gitignore"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "polymer-analyzer": "^3.2.4"
+  },
+  "devDependencies": {
+    "eslint": "^6.1.0",
+    "eslint-config-google": "^0.13.0"
+  }
+}
